@@ -1,4 +1,7 @@
 # CarDekho-Car-Price-Prediction-using-Machine-Learning
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 18, 2025, 09_26_55 PM" src="https://github.com/user-attachments/assets/35141c59-7dac-4422-9470-c9dae6aec078" />
+
 A complete end-to-end Machine Learning project to predict used-car selling prices using the CarDekho dataset. This project includes data cleaning, EDA, feature engineering, model building, hyperparameter tuning, model comparison, and business insights.
 
 
